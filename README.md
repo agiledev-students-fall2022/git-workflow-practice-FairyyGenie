@@ -14,3 +14,6 @@ Taking a VR immersive experience class in Tandon this semester, I listened to a 
 It was discussed what if some racist people would one day use Augmented reality to block out some race? These kind of questions are alarming.
 How do we prevent people from using VR/AR for the wrong purposes? 
 As the metaverse keep on growing at a fast pace, we should talk about these issues before more people get hurt.
+
+# Minwu's feedback
+Thanks for sharing this article and your personal thoughts about it. It seems like the border line between the "real space" and "digital space" is getting more and more blurry as the technology progresses. Following this evolution of technology, we need to think about the different rules and social norms that are compatible to the change. 
